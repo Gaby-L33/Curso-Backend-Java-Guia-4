@@ -29,7 +29,7 @@ public class EjerciciosExtra2Guia5 {
         int[] vector2 = new int[n];
         for (int i = 0; i < n; i++) {
             vector2[i] = (int) (Math.random() * 2);
-            System.out.print("[" + vector2[i] + "}");
+            System.out.print("[" + vector2[i] + "]");
         }
         System.out.println("");
        

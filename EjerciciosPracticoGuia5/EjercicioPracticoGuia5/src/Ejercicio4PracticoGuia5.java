@@ -29,15 +29,16 @@ viceversa).*/
         System.out.println("Matriz 1");
         for (int i = 0;i<4;i++){
             for (int j=0;j<4;j++){
-                System.out.print(matriz1[i][j]);
+                System.out.print("["+matriz1[i][j]+"]");
             }
             System.out.println("");
         }
+        System.out.println("----------------------------");
         //Mostramos matriz2
         System.out.println("Matriz 2");
         for (int i = 0;i<4;i++){
             for (int j=0;j<4;j++){
-                System.out.print(matriz1[j][i]);
+                System.out.print("["+matriz1[j][i]+"]");
             }
             System.out.println("");
         }

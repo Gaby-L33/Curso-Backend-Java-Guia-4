@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class Ejercicio3PracticoGuia5 {
 
     /**
-     * @param args the command line arguments
+     * Recorrer un vector de N enteros contabilizando cuántos números son de 1 dígito, cuántos de 2 dígitos, etcétera (hasta 5 dígitos).
      */
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);

@@ -7,7 +7,7 @@ Después haremos otra función o procedimiento que imprima el vector.
  *
  * @author Usuario
  */
-public class EjercicioExtra3Guia5 {
+public class EjerciciosExtra3Guia5 {
 
     /**
      * @param args the command line arguments

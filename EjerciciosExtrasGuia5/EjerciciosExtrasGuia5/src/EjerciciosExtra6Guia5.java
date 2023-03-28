@@ -14,7 +14,7 @@ Nota: Para resolver el ejercicio deberá investigar cómo se utilizan las siguie
  *
  * @author Usuario
  */
-public class EJerciciosExtra6Guia5 {
+public class EjerciciosExtra6Guia5 {
 
     /**
      * @param args the command line arguments
